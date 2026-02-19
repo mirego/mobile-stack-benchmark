@@ -1,0 +1,20 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.xcworkspace
+xcuserdata/
+DerivedData/
+Pods/
+
+# Android build outputs
+androidApp/build/
+shared/build/
+
+# Config with secrets
+shared/src/commonMain/resources/config.properties
